@@ -1,0 +1,4 @@
+# .gitignore
+*.json       # Ignores all JSON files
+.env         # Ignores environment files
+__pycache__/ # Ignores Python cache
